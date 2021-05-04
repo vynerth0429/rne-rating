@@ -1,6 +1,8 @@
 import React from 'react';
 import {Text, View} from 'react-native';
 
+import {} from 'react-native-elements';
+
 const App = () => {
   return (
     <View>
